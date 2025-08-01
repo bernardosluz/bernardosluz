@@ -27,7 +27,7 @@ English 🇺🇸
 ### 🔥 Gráfico de Contribuição 3D | 3D Contribution Graph
 ![3D Contributions Terminal](https://raw.githubusercontent.com/bernardosluz/bernardosluz/output-3d-contrib/terminal.svg)
 
-### 🐍 Contribuição Cobra | Contribution Snake
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardosluz/bernardosluz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardosluz/bernardosluz/output/github-contribution-grid-snake.svg" />
