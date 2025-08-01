@@ -7,8 +7,8 @@
 - 🏢 Estou sempre disposto a aprender novas tecnologias 
 
 <a href="https://github.com/bernardosluz">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=bernardosluz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosluz&layout=compact&langs_count=8&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardosluz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosluz&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
 <div style="display: inline_block"><br>
