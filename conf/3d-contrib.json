@@ -1,17 +1,19 @@
-{
-    "type": "normal",
-    "fileName": "terminal.svg",
-    "backgroundColor": "#0a0a0a",
-    "foregroundColor": "#00ff41",
-    "strongColor": "#ffffff",
-    "weakColor": "#333333",
-    "radarColor": "#00ff41",
-    "growingAnimation": true,
-    "contribColors": [
-        "#1a1a1a",
-        "#2d4a2d",
-        "#408040",
-        "#00ff41",
-        "#66ff66"
-    ]
-}
+[
+    {
+        "type": "normal",
+        "fileName": "terminal.svg",
+        "backgroundColor": "#0a0a0a",
+        "foregroundColor": "#00ff41",
+        "strongColor": "#ffffff",
+        "weakColor": "#333333",
+        "radarColor": "#00ff41",
+        "growingAnimation": true,
+        "contribColors": [
+            "#1a1a1a",
+            "#2d4a2d",
+            "#408040",
+            "#00ff41",
+            "#66ff66"
+        ]
+    }
+]
