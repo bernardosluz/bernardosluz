@@ -4,7 +4,7 @@
 - 👨🏽‍💻 Meu curso de formação é Engenharia de Computação
 - 📖 Aprendendo métodos de engenharia reversa, uso de arduino e segurança de sistemas
 - 😄 Entusiasmo em resolver problemas e otimização de algoritmos
-- 🏢 Estou sempre disposto a aprender novas tecnologias 
+- 🤓 Estou sempre disposto a aprender novas tecnologias 
 
 <a href="https://github.com/bernardosluz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardosluz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
