@@ -19,13 +19,13 @@ English 🇺🇸
 📊 GitHub GitHub Analytics
 <div align="center">
 🔥 3D Contribution Graph - Terminal Theme
-https://raw.githubusercontent.com/silvaluzb/silvaluzb/output-3d-contrib/terminal.svg
+https://raw.githubusercontent.com/bernardosluz/bernardosluz/output-3d-contrib/terminal.svg
 
 🐍 Contribution Snake - Terminal Theme
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/silvaluzb/silvaluzb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/silvaluzb/silvaluzb/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/silvaluzb/silvaluzb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardosluz/bernardosluz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardosluz/bernardosluz/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bernardosluz/bernardosluz/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ## 💻 Tecnologias & Ferramentas | Tech Stack & Tools
