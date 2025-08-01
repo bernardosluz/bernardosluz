@@ -16,20 +16,20 @@ English 🇺🇸
 - 😄 Enthusiastic about problem-solving and algorithm optimization
 - 🤓 I am always willing to learn new technologies
 
-📊 GitHub GitHub Analytics
+## 📊 Análises do GitHub | GitHub Analytics
 <div align="center">
-🔥 3D Contribution Graph - Terminal Theme
-https://raw.githubusercontent.com/bernardosluz/bernardosluz/output-3d-contrib/terminal.svg
+### 🔥 Gráfico de Contribuição 3D | 3D Contribution Graph
+![3D Contributions Terminal](https://raw.githubusercontent.com/bernardosluz/bernardosluz/output-3d-contrib/terminal.svg)
 
-🐍 Contribution Snake - Terminal Theme
+### 🐍 Contribuição Cobra | Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardosluz/bernardosluz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardosluz/bernardosluz/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bernardosluz/bernardosluz/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-## 💻 Tecnologias & Ferramentas | Tech Stack & Tools
-# Linguagens | Languages:
+### 💻 Tecnologias & Ferramentas | Tech Stack & Tools
+#### Linguagens | Languages:
 <div style="display: inline_block"><br>
   <img align="center" alt="Bernardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bernardo-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/bernardosluz/bernardosluz/output-3d-contrib/te
   <img align="center" alt="Bernardo-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 </div>
 
-# Ferramentas | Tools:
+#### Ferramentas | Tools:
 A definir
 
 <div align="center">
@@ -49,7 +49,7 @@ A definir
 🇧🇷 "Existem somente 10 tipos de pessoas no mundo: aquelas que entendem binário e as que não entendem."
 🇺🇸 "There are only 10 types of people in the world: those who understand binary and those who don't."
 
-## 📬 Redes Sociais | Social Media
+### 📬 Redes Sociais | Social Media
 <div> 
   <a href="https://youtube.com/@bernardosilvaluz7614?si=AyZeBrsFjoJt_S7K" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bernardosilval/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
