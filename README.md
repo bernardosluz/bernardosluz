@@ -2,7 +2,7 @@ Português 🇧🇷
 
 ## Olá, mundo! 👋 Eu sou Bernardo Luz
 - 🎓 Sou discente da Universidade Federal de Sergipe
-- 🧑🏽‍💼 Estagiando no ...
+- 🧑🏽‍💼 Estagiando no Instituto de Criminalística
 - 👨🏽‍💻 Meu curso de formação é Engenharia de Computação
 - 📖 Aprendendo métodos de engenharia reversa, uso de arduino e segurança de sistemas
 - 😄 Entusiasmo em resolver problemas e otimização de algoritmos
@@ -14,7 +14,7 @@ English 🇺🇸
 
 ## Hello, world! 👋 I am Bernardo Luz
 - 🎓 I am a student at the Federal University of Sergipe
-- 🧑🏽‍💼 Interning at ...
+- 🧑🏽‍💼 Interning at Criminalistics Institute
 - 👨🏽‍💻 My major is Computer Engineering
 - 📖 Learning reverse engineering methods, arduino usage, and systems security
 - 😄 Enthusiastic about problem-solving and algorithm optimization
