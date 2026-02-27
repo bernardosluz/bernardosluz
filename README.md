@@ -76,6 +76,7 @@
 
 ### 📬 Redes Sociais | Social Media
 <div> 
+  <a href="https://bernasluz.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bernardo-silva-luz-740979248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/bernasluz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://youtube.com/@bernardosilvaluz7614?si=AyZeBrsFjoJt_S7K" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
