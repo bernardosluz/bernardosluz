@@ -1,31 +1,43 @@
-Português 🇧🇷
+# Português 🇧🇷
 
 ## Olá, mundo! 👋 Eu sou Bernardo Luz
-- 🎓 Sou discente da Universidade Federal de Sergipe
-- 🧑🏽‍💼 Estagiando no Instituto de Criminalística
-- 👨🏽‍💻 Meu curso de formação é Engenharia de Computação
-- 📖 Aprendendo métodos de engenharia reversa, uso de arduino e segurança de sistemas
-- 😄 Entusiasmo em resolver problemas e otimização de algoritmos
-- 🤓 Estou sempre disposto a aprender novas tecnologias
+- 🎓 Graduando em **Engenharia de Computação** pela Universidade Federal de Sergipe (9º Período)
+- 🧑🏽‍💼 Estagiário de Desenvolvimento de Software na **DTI (Diretoria de Tecnologia da Informação)**
+- 🔬 Pesquisador de TCC focado em **Otimização de Algoritmos (Coloração de Grafos)**
+- 📖 Aprimorando conhecimentos em .NET Core, React, TypeScript e Problemas NP-Hard
+- 😄 Entusiasta em resolver desafios lógicos e otimização de sistemas
 
 ---
 
-English 🇺🇸
+# English 🇺🇸
 
 ## Hello, world! 👋 I am Bernardo Luz
-- 🎓 I am a student at the Federal University of Sergipe
-- 🧑🏽‍💼 Interning at Criminalistics Institute
-- 👨🏽‍💻 My major is Computer Engineering
-- 📖 Learning reverse engineering methods, arduino usage, and systems security
-- 😄 Enthusiastic about problem-solving and algorithm optimization
-- 🤓 I am always willing to learn new technologies
+- 🎓 Senior **Computer Engineering** student at Federal University of Sergipe (9th Semester)
+- 🧑🏽‍💼 Software Development Intern at **DTI (Information Technology Directorate)**
+- 🔬 Thesis researcher focused on **Algorithm Optimization (Graph Coloring)**
+- 📖 Improving skills in .NET Core, React, TypeScript, and NP-Hard Problems
+- 😄 Enthusiastic about logical challenges and systems optimization
+
+---
+
+## 💼 Experiência Profissional | Professional Experience
+
+### **Diretoria de Tecnologia da Informação (DTI)**
+*Estagiário de Desenvolvimento de Software*
+> Desenvolvimento de soluções escaláveis utilizando **React, TypeScript e .NET**, com foco na modernização de processos e gestão de dados.
+
+### **Instituto de Criminalística de Sergipe**
+*Estagiário de TI / Suporte Técnico*
+> Atuação em suporte especializado e infraestrutura. Experiência em manutenção de redes (Linux/Windows), segurança de endpoints e desenvolvimento de rotinas em **VB.NET** e **HTML** para suporte operacional.
+
+---
 
 ## 📊 Análises do GitHub | GitHub Analytics
 
 <div align="center">
 
 ### 🔥 Gráfico de Contribuição 3D | 3D Contribution Graph
-![3D Contributions Terminal](https://raw.githubusercontent.com/bernardosluz/bernardosluz/output-3d-contrib/terminal.svg)
+![3D Contributions](https://raw.githubusercontent.com/bernardosluz/bernardosluz/output-3d-contrib/terminal.svg)
 
 ### 🐍 Contribution Snake
 <picture>
@@ -36,22 +48,25 @@ English 🇺🇸
 
 </div>
 
+---
+
 ## 💻 Tecnologias & Ferramentas | Tech Stack & Tools
 
-### Linguagens | Languages:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bernardo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Bernardo-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Bernardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bernardo-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Bernardo-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Bernardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bernardo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Bernardo-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+### Linguagens & Frameworks:
+<div style="display: inline_block">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ### Ferramentas | Tools:
-A definir
+`Git` | `Linux` | `Docker` | `Arduino` | `Scrum`
 
 ---
 
@@ -59,14 +74,11 @@ A definir
 
 🇧🇷 *"Existem somente 10 tipos de pessoas no mundo: aquelas que entendem binário e as que não entendem."*
 
-🇺🇸 *"There are only 10 types of people in the world: those who understand binary and those who don't."*
-
 ### 📬 Redes Sociais | Social Media
 <div> 
-  <a href="https://youtube.com/@bernardosilvaluz7614?si=AyZeBrsFjoJt_S7K" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/bernasluz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/lordeluzb" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardo-silva-luz-740979248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/bernardo-silva-luz-740979248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/bernasluz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://youtube.com/@bernardosilvaluz7614?si=AyZeBrsFjoJt_S7K" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 </div>
