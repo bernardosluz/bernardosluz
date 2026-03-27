@@ -3,7 +3,7 @@
 ## Olá, mundo! 👋 Eu sou Bernardo Luz
 - 🎓 Graduando em **Engenharia de Computação** pela Universidade Federal de Sergipe (9º Período)
 - 🧑🏽‍💼 Estagiário de Desenvolvimento de Software na **DTI (Diretoria de Tecnologia da Informação)**
-- 🔬 Pesquisador de TCC focado em **Otimização de Algoritmos (Coloração de Grafos)**
+- 🔬 Pesquisador de TCC focado em **Otimização de Algoritmos**
 - 📖 Aprimorando conhecimentos em .NET Core, React, TypeScript e Problemas NP-Hard
 - 😄 Entusiasta em resolver desafios lógicos e otimização de sistemas
 
@@ -14,7 +14,7 @@
 ## Hello, world! 👋 I am Bernardo Luz
 - 🎓 Senior **Computer Engineering** student at Federal University of Sergipe (9th Semester)
 - 🧑🏽‍💼 Software Development Intern at **DTI (Information Technology Directorate)**
-- 🔬 Thesis researcher focused on **Algorithm Optimization (Graph Coloring)**
+- 🔬 Thesis researcher focused on **Algorithm Optimization**
 - 📖 Improving skills in .NET Core, React, TypeScript, and NP-Hard Problems
 - 😄 Enthusiastic about logical challenges and systems optimization
 
